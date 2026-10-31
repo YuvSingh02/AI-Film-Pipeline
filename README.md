@@ -1,4 +1,4 @@
-﻿# Pulse & Paradox — AI Film Pipeline
+﻿# AI Film Pipeline
 
 An experimental, Python-based pipeline for automating cinematic documentary and storytelling videos using generative AI.
 
