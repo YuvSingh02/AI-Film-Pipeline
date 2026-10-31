@@ -83,5 +83,5 @@ Each model has separate access requirements and licensing terms. Check the origi
 
 ---
 
-**Project:** Pulse & Paradox  
+**Project:** Learning AI Film Making Using Open Source Models
 **Focus:** Generative AI | Multimodal AI | Video Automation | Python
