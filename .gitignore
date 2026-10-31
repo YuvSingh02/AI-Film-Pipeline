@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+__pycache__/
+*.pyc
+venv/
+.venv/
+models/
+checkpoints/
+loras/
+datasets/
+dataset_*/
+outputs/
+temp/
+cache/
